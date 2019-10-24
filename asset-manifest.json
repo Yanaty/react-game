@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-game/static/css/main.acb2ade7.chunk.css",
+    "main.js": "/react-game/static/js/main.db1bdd81.chunk.js",
+    "main.js.map": "/react-game/static/js/main.db1bdd81.chunk.js.map",
+    "runtime-main.js": "/react-game/static/js/runtime-main.d5548149.js",
+    "runtime-main.js.map": "/react-game/static/js/runtime-main.d5548149.js.map",
+    "static/js/2.d17959ea.chunk.js": "/react-game/static/js/2.d17959ea.chunk.js",
+    "static/js/2.d17959ea.chunk.js.map": "/react-game/static/js/2.d17959ea.chunk.js.map",
+    "index.html": "/react-game/index.html",
+    "precache-manifest.46cd394a40fd8876430e9557c2e98135.js": "/react-game/precache-manifest.46cd394a40fd8876430e9557c2e98135.js",
+    "service-worker.js": "/react-game/service-worker.js",
+    "static/css/main.acb2ade7.chunk.css.map": "/react-game/static/css/main.acb2ade7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5548149.js",
+    "static/js/2.d17959ea.chunk.js",
+    "static/css/main.acb2ade7.chunk.css",
+    "static/js/main.db1bdd81.chunk.js"
+  ]
+}
